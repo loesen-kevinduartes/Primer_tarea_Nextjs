@@ -17,7 +17,7 @@ export default function Home() {
           <div className='bg-white dark:bg-gray-800 shadow overflow-hidden rounded-lg'>
             <div className='px-4 py-5 sm:px-6 flex items-center justify-between'>
               <div className='flex items-center'>
-                <img className='h-16 w-16 rounded-full mr-4 shadow-lg border border-white' src='/images/matiasKochlowski.jpg' alt='' width={300} height={300} />
+                <img className='h-16 w-16 rounded-full mr-4 shadow-lg border border-white' src='/images/kevinDuartes.jpg' alt='' width={300} height={300} />
                 <h3 className='text-lg leading-none font-medium text-gray-900 dark:text-white dark:text-white'>Kevin Duartes</h3>
               </div>
             </div>
