@@ -1,10 +1,22 @@
+// Package Imports
 import Head from 'next/head';
 
-export default function Custom500() {
+// Component Imports
+
+// Config Imports
+
+// Custom Hook Imports
+
+// Helper Imports
+
+// Icon Imports
+
+// Exported Component
+const Custom500 = () => {
   return (
     <div>
       <Head>
-        <title>500 - </title>
+        <title>500 - Kevin Duartes</title>
       </Head>
       <header className='bg-white'></header>
       <main className='bg-white overflow-hidden'>
@@ -30,4 +42,6 @@ export default function Custom500() {
       <footer></footer>
     </div>
   );
-}
+};
+
+export default Custom500;

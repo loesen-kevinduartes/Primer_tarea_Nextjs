@@ -1,10 +1,22 @@
+// Package Imports
 import Head from 'next/head';
 
-export default function Custom404() {
+// Component Imports
+
+// Config Imports
+
+// Custom Hook Imports
+
+// Helper Imports
+
+// Icon Imports
+
+// Exported Component
+const Custom404 = () => {
   return (
     <div>
       <Head>
-        <title>404 -</title>
+        <title>404 - Kevin Duartes</title>
       </Head>
       <header className='bg-white'></header>
       <main className='bg-white overflow-hidden '>
@@ -30,4 +42,6 @@ export default function Custom404() {
       <footer></footer>
     </div>
   );
-}
+};
+
+export default Custom404;
