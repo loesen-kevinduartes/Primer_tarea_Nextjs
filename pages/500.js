@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-export default function Custom500() {
+const Custom500 = () => {
   return (
     <div>
       <Head>
@@ -30,4 +30,5 @@ export default function Custom500() {
       <footer></footer>
     </div>
   );
-}
+};
+export default Custom500;
